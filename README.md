@@ -6,6 +6,6 @@ In this challenge i built a quiz using HTML, CSS, and Javascript with multiple c
 
 [Github repositroy](https://github.com/ThinkK1ng/Code-Quiz-Challenge)
 
-[Github pages]()
+[Github pages](https://thinkk1ng.github.io/Code-Quiz-Challenge/)
 
-[site image]()
+[site image](https://www.awesomescreenshot.com/image/34164169?key=9bfbfc10c5dd3a058b8d506edad975dbgit add)
